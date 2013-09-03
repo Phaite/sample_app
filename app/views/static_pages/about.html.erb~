@@ -1,8 +1,4 @@
-<%provide(:title,'About Us')%>
-<!DOCTYPE html>
-<html>
-  
-  
+
     <h1>About Us</h1>
     <p>
       The <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
@@ -11,5 +7,3 @@
       is the sample application for the tutorial.
     </p>
   
-</html>
-
